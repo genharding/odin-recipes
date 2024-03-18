@@ -1,2 +1,2 @@
 # odin-recipes
-A simple webpage
+A simple webpage following the Odin Project course
